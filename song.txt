@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, everebody!
+=======
+Hello, everebody!
+You know what I'am glad to see you!
+>>>>>>> d668b0d268dd56a33828769b6c5a088097b76836
